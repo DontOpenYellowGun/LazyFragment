@@ -10,7 +10,7 @@ public abstract class LazyFragment extends Fragment {
 
     protected boolean isVisble;
     public boolean isPrepared = false;
-
+    //test
     @Override
     public void setUserVisibleHint(boolean isVisibleToUser) {
         super.setUserVisibleHint(isVisibleToUser);
